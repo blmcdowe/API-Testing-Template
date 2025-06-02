@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+ENV/
+*.env
+*.log
+
+# VS Code
+.vscode/
+
+# PyCharm
+.idea/
+
+# Pytest
+.cache/
+.pytest_cache/
+*.cover
+coverage.xml
+
+# OS
+.DS_Store
+Thumbs.db
